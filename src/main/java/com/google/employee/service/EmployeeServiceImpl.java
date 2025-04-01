@@ -1,7 +1,7 @@
-package com.google.service;
+package com.google.employee.service;
 
-import com.google.entities.EmployeeEntity;
-import com.google.repository.EmployeeRepository;
+import com.google.employee.entity.EmployeeEntity;
+import com.google.employee.repository.EmployeeRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

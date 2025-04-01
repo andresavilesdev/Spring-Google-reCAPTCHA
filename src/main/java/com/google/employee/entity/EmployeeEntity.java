@@ -1,4 +1,4 @@
-package com.google.entities;
+package com.google.employee.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

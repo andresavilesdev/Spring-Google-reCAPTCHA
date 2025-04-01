@@ -1,6 +1,6 @@
-package com.google.repository;
+package com.google.employee.repository;
 
-import com.google.entities.EmployeeEntity;
+import com.google.employee.entity.EmployeeEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
